@@ -1,12 +1,12 @@
 # Latest Update
 
-[x] SmartReflex - The New Rehab : [Link](https://github.com/saikaushhikp/SmartReflex-The-New-Rehab)  
+- [x] SmartReflex - The New Rehab : [Link](https://github.com/saikaushhikp/SmartReflex-The-New-Rehab)  
 
-[x] Multi-Spectral Image Segmentation(part of DL coursework) : [Link](https://github.com/saikaushhikp/DL-MultiSpectral-Image-Segmentation-Kaggle_Task)  
+- [x] Multi-Spectral Image Segmentation(part of DL coursework) : [Link](https://github.com/saikaushhikp/DL-MultiSpectral-Image-Segmentation-Kaggle_Task)  
 
-[x] Generative Adversarial Networks for MNIST : [DC-GAN for MNIST](https://github.com/saikaushhikp/GANs-4-MNIST)  
+- [x] Generative Adversarial Networks for MNIST : [DC-GAN for MNIST](https://github.com/saikaushhikp/GANs-4-MNIST)  
 
-[x] Deep-RL algorithms for Gymnasium environments(part of RL coursework) : [Deep-RL](https://github.com/saikaushhikp/Deep-RL)  
+- [x] Deep-RL algorithms for Gymnasium environments(part of RL coursework) : [Deep-RL](https://github.com/saikaushhikp/Deep-RL)  
 
 # Projects 
 

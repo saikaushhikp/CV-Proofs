@@ -1,16 +1,16 @@
 # Latest Update
 
-- SmartReflex - The New Rehab : [Link](https://github.com/saikaushhikp/SmartReflex-The-New-Rehab)
+[x] SmartReflex - The New Rehab : [Link](https://github.com/saikaushhikp/SmartReflex-The-New-Rehab)  
 
-- Multi-Spectral Image Segmentation(part of DL coursework) : [Link](https://github.com/saikaushhikp/DL-MultiSpectral-Image-Segmentation-Kaggle_Task)   
+[x] Multi-Spectral Image Segmentation(part of DL coursework) : [Link](https://github.com/saikaushhikp/DL-MultiSpectral-Image-Segmentation-Kaggle_Task)  
 
-- Generative Adversarial Networks for MNIST : [DC-GAN for MNIST](https://github.com/saikaushhikp/GANs-4-MNIST)  
+[x] Generative Adversarial Networks for MNIST : [DC-GAN for MNIST](https://github.com/saikaushhikp/GANs-4-MNIST)  
 
-- Deep-RL algorithms for Gymnasium environments(part of RL coursework) : [Deep-RL](https://github.com/saikaushhikp/Deep-RL)  
+[x] Deep-RL algorithms for Gymnasium environments(part of RL coursework) : [Deep-RL](https://github.com/saikaushhikp/Deep-RL)  
 
 # Projects 
 
-1. [x] Proofs for ongoing mini-project has been submitted
+1. Proofs for ongoing mini-project has been submitted ✔️
 
 2. Riscv-simulator:  [version 1](https://github.com/saikaushhikp/Computer-Architecture-CS2323/tree/main/Lab4)  , [version 2](https://github.com/saikaushhikp/Computer-Architecture-CS2323/tree/main/Lab7)  
 

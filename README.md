@@ -10,11 +10,11 @@
 
 # Projects 
 
-1. Proofs for ongoing mini-project has been submitted
+1. [x] Proofs for ongoing mini-project has been submitted
 
 2. Riscv-simulator:  [version 1](https://github.com/saikaushhikp/Computer-Architecture-CS2323/tree/main/Lab4)  , [version 2](https://github.com/saikaushhikp/Computer-Architecture-CS2323/tree/main/Lab7)  
 
-- in case the above links doesn't open, $\to$ complete repo [Computer-Architecture-CS2323](https://github.com/saikaushhikp/Computer-Architecture-CS2323)  
+    - in case the above links doesn't open, $\to$ complete repo [Computer-Architecture-CS2323](https://github.com/saikaushhikp/Computer-Architecture-CS2323)  
 
 3. Machine Learning Algorithms from Scratch :  [version 1](https://github.com/saikaushhikp/Supervised-Learning-Scratch)
 
@@ -24,8 +24,8 @@
 
 6. Applied stats course group projects :  
 
-- [Global Quality of Life Analysis](https://github.com/saikaushhikp/Applied-Stats-projects/tree/main/project1)  
-- [Graduate Admission Prediction Analysis](https://github.com/saikaushhikp/Applied-Stats-projects/tree/main/project2)  
+    - [Global Quality of Life Analysis](https://github.com/saikaushhikp/Applied-Stats-projects/tree/main/project1)  
+    - [Graduate Admission Prediction Analysis](https://github.com/saikaushhikp/Applied-Stats-projects/tree/main/project2)  
 
 - in case the above links doesn't open $\to$ complete repo [Applied Stats-Projects](https://github.com/saikaushhikp/Applied-Stats-projects)  
 

@@ -10,7 +10,7 @@
 
 # Projects 
 
-1. Proofs for ongoing mini-project has been submitted [x] ✔️
+1. [x] Proofs for ongoing mini-project has been submitted
 
 2. Riscv-simulator:  [version 1](https://github.com/saikaushhikp/Computer-Architecture-CS2323/tree/main/Lab4)  , [version 2](https://github.com/saikaushhikp/Computer-Architecture-CS2323/tree/main/Lab7)  
 

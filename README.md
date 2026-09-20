@@ -12,7 +12,7 @@
 2. Adv. AI Techniques for Long Video Understanding
 ![LVU](LVU.jpeg)
 
-3. LogScope: [Link](https://github.com/wanderer1011/SWE_Final_Collection_Layer_G17)
+3. LogScope: [Link](https://github.com/wanderer1011/SWE_Sprint3_G17)
 
 4. Robust Motion Gated Adaptaion: [Link](https://github.com/saikaushhikp/RMGA-Robust-Motion-Gated-Adaptation)
 
